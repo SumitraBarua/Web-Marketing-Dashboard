@@ -5,10 +5,15 @@ This analysis aims to evaluate website performance by examining metrics such as 
 
 **Objectives:**
 •	Understanding User Engagement.
+
 •	Identify Drop-off Points.
+
 •	Monitor Performance Trends.
+
 •	Analyze Regional Engagement.
+
 •	Device Categories.
+
 •	Monthly Traffic Patterns.
 
 **Key Insights:**
